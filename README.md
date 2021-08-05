@@ -4,6 +4,18 @@ I am currently GitHub's SEO Manager working with teams across the organization t
 
 Feel free to reach out to me with anything related to SEO. 
 
+#### Catch Me On Social Media
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+
+[1]: http://www.twitter.com/seogoddess
+[2]: http://www.facebook.com/theseogoddess
+
 #### Articles I have Published
 <img src="https://cdn.searchenginejournal.com/wp-content/themes/sej14/images-new/sej2x_new11.webp" float="left" width="100px">You can find the latest articles published as a contributing author on [Search Engine Journal](https://www.searchenginejournal.com/author/jenn-mathews/). 
 
@@ -29,14 +41,8 @@ A seasoned SEO professional shares 20 of the most important lessons she has lear
 | <img src="https://seogoddess.com/wp-content/uploads/2020/03/Github-Logo.png" width="200px"> |  <img src="https://seogoddess.com/wp-content/uploads/2019/05/groupon-logo.jpg" width="200px"> | <img src="https://seogoddess.com/wp-content/uploads/2019/05/Nordstrom-logo.png" width="200px">|<img src="https://seogoddess.me/wp-content/uploads/2019/05/ADP_logo-e1558884106537.png" width="200px">|<img src="https://seogoddess.com/wp-content/uploads/2019/05/download.png" width="200px">|
 
 
-#### Catch Me On Social Media
+### Websites I Tinker With
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-
-[1]: http://www.twitter.com/seogoddess
-[2]: http://www.facebook.com/theseogoddess
+| [Vashon-Maury.com](https://vashon-maury.com) | [DeveloperCloud.io](https://developercloud.io) | [JustGrubMe.com](https://justgrubme.com) |
+|:-------------:|:-------------:|:-------------:|
+| Having grown up on Vashon-Maury Island, and a 4th generation Vashonite, I created this local information website for Vashon and Maury Islands located just West of Seattle and North of Tacoma in Washington state's Puget Sound. Full of [things to do](https://vashon-maury.com/vashon-island/things-vashon-island/) and [local](https://vashon-maury.com/local/) business listings, locals and visitors can find everything they need there.  | An site full of the basic information around being a [cloud developer](https://developercloud.io/developer/cloud-developer/), [DevOps]9https://developercloud.io/devops/), CI/CD, DevSecOps and more. | An SEO experiment to develop a site with recipes and cooking information. Still under development and scheduled to be ready sometime in 2021. The site will get you rright to just the recipe and will have no advertising. Yes, truly just grub me... |
