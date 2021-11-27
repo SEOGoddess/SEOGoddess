@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Jennifer Mathews, also known as the SEOGoddes. I have been obsessed with search engine optimization for over 20 years now. I am considered a thought leader in the SEO industry having spoken at many events on behalf of SEO and enterprise SEO, write for industry publications, have managed SEO and SEO teams for large organizations, served as Director for succesful startups and ran entire events for search marketing and social media marketing. 
+I'm Jennifer Mathews, also known as the SEOGoddess. I have been obsessed with search engine optimization for over 20 years now. I am considered a thought leader in the SEO industry having spoken at many events on behalf of SEO and enterprise SEO, write for industry publications, have managed SEO and SEO teams for large organizations, served as Director for succesful startups and ran entire events for search marketing and social media marketing. 
 I am currently GitHub's SEO Manager working with teams across the organization to optimize projects and all aspects of GitHub properties. 
 
 Feel free to reach out to me with anything related to SEO. 
