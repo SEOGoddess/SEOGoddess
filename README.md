@@ -1,8 +1,8 @@
 # Hi there 👋
-I'm Jennifer Mathews, also known as the SEOGoddes. I have been obsessed with search engine optimization for over 20 years now. I am considered a thought leader in the SEO industry having spoken at many events on behalf of SEO and enterprise SEO, write for industry publications, have managed SEO and SEO teams for large organizations, served as Director for succesful startups and ran entire events for search marketing and social media marketing. 
-I am currently GitHub's SEO Manager working with teams across the organization to optimize projects and all aspects of GitHub properties. 
+I'm Jennifer Mathews, also known as the SEOGoddes. I have been obsessed with search engine optimization for over 20 years now. I am considered a thought leader in the SEO industry having spoken at many events on behalf of SEO and enterprise SEO, writing for industry publications, managing SEO and SEO teams for large organizations, serving as Director for successful startups, and running workshops and conferences for search marketing and social media marketing. 
+This account was created before I was GitHub's SEO Manager and developed more while working with GitHub's teams across to optimize projects and all aspects of GitHub properties. I update links and content when I can.
 
-Feel free to reach out to me with anything related to SEO. 
+Feel free to [schedule time])https://calendly.com/seogoddess/github15) with me for 15 minutes to ask me anything related to SEO. 
 
 #### Catch Me On Social Media
 
@@ -43,6 +43,6 @@ A seasoned SEO professional shares 20 of the most important lessons she has lear
 
 ### Websites I Tinker With
 
-| [Vashon-Maury.com](https://vashon-maury.com) | [DeveloperCloud.io](https://developercloud.io) | [JustGrubMe.com](https://justgrubme.com) |
+| [Vashon-Maury.com](https://vashon-maury.com) | [[masteroptimization.com](https://masteroptimization.com/)] | [JustGrubMe.com](https://justgrubme.com) |
 |:-------------:|:-------------:|:-------------:|
-| Having grown up on Vashon-Maury Island, and a 4th generation Vashonite, I created this local information website for Vashon and Maury Islands located just West of Seattle and North of Tacoma in Washington state's Puget Sound. Full of [things to do](https://vashon-maury.com/vashon-island/things-vashon-island/) and [local](https://vashon-maury.com/local/) business listings, locals and visitors can find everything they need there.  | An site full of the basic information around being a [cloud developer](https://developercloud.io/developer/cloud-developer/), [DevOps](https://developercloud.io/devops/), CI/CD, DevSecOps and more. | An SEO experiment to develop a site with recipes and cooking information. Still under development and scheduled to be ready sometime in 2021. The site will get you rright to just the recipe and will have no advertising. Yes, truly just grub me... |
+| Having grown up on Vashon-Maury Island, and a 4th generation Vashonite, I created this local information website for Vashon and Maury Islands located just West of Seattle and North of Tacoma in Washington state's Puget Sound. Full of [things to do](https://vashon-maury.com/vashon-island/things-vashon-island/) and [local](https://vashon-maury.com/local/) business listings, locals and visitors can find everything they need there.  | A brain dump of everything I know about SEO and what I am learning while optimizing for Artificial Intelligence (AI) Engines such as [SearchGPT](https://openai.com/index/searchgpt-prototype/), [Gemini](https://gemini.google.com/), [Microsoft CoPilot](https://www.bing.com/chat), and more. | A recipe blog and recipe site with zero advertising, and supporting cooking and recipe sites that do not have advertising as well. The goal is to create an ad-free recipe and cooking experience. |
