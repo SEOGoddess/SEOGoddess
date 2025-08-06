@@ -2,7 +2,7 @@
 I'm Jennifer Mathews, also known as the SEOGoddes. I have been obsessed with search engine optimization for over 20 years now. I am considered a thought leader in the SEO industry having spoken at many events on behalf of SEO and enterprise SEO, writing for industry publications, managing SEO and SEO teams for large organizations, serving as Director for successful startups, and running workshops and conferences for search marketing and social media marketing. 
 This account was created before I was GitHub's SEO Manager and developed more while working with GitHub's teams across to optimize projects and all aspects of GitHub properties. I update links and content when I can.
 
-Feel free to [schedule time])https://calendly.com/seogoddess/github15) with me for 15 minutes to ask me anything related to SEO. 
+Feel free to [schedule time](https://calendly.com/seogoddess/github15) with me for 15 minutes to ask me anything related to SEO. 
 
 #### Catch Me On Social Media
 
